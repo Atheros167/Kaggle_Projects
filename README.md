@@ -1,4 +1,4 @@
-# Kaggle_Projects
+# Kaggle Projects
 
 ### Below are the list of Kaggle Competitions:
 
